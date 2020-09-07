@@ -2,6 +2,9 @@
 
 This tool fetches OpenWeather forecasts and plots the humidity for easy viewing.
 
+## Example
+![Example output](example.png)
+
 # Requirements
 The tool uses Python and requires click, matplotlib and requests to work. The easiest way to install all the requirements is to run
 ```
