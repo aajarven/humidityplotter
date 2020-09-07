@@ -1,4 +1,4 @@
 .venv
-*.py.swp
+*.swp
 *.pyc
 *.png
